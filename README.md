@@ -1,4 +1,4 @@
-<h1 align="center">Avalon Nano 3 / 3S Ultra Controller 🚀</h1>
+<h1 align="center">Avalon Mini 3, Nano 3 / 3S Ultra Controller 🚀</h1>
 <h3 align="center">Precision Thermal Management & Tmax (hotspot) Control runs on cheap ESP32 (CYD)</h3>
 
 [![Free Trial](https://img.shields.io/badge/FREE_Trial-Flash_Now-blue?style=for-the-badge&logo=google-chrome)](https://stu1958.github.io/Avalon-Nano-Ultra-Controller/)
