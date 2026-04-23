@@ -13,7 +13,7 @@
 
 ---
 
-## 🛡️ Protect Your ASIC Chips — Extend Your Nano 3 / 3S Lifespan
+## 🛡️ Protect Your ASIC Chips — Extend Your Mini 3 / Nano 3 / 3S Lifespan
 
 Standard Avalon firmware often prioritizes "quiet" operation, allowing temperatures to reach **85°C – 95°C**.  
 For 5nm silicon, **constant high heat is the primary cause of degradation and hardware failure**.  
