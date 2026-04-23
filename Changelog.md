@@ -2,6 +2,7 @@
 
 ## Core Improvements
 
+- 2304Update.bin Full support for the Avavlon Mini 3, Mini 3 mining can be scheduled, Improved centre display options, big hashrate etc
 - 0504Update.bin Added large Hash rate display option for centre display. Also alternating power with efficiency on bottom info line. 
 - 2903Update.bin Added universal DST setting in WiFi setup
 - Most frequently accessed settings now moved to Web page. These can be changed on the fly without rebooting to setup.
