@@ -13,5 +13,6 @@
   - **7 TH/s** for Nano **3S**
   - **5 TH/s** for **Nano 3**
 - **Model-specific reboot commands**
+- 
 
 
