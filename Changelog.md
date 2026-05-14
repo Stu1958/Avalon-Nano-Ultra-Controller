@@ -1,6 +1,7 @@
 # Changelog
 
 
+- 1405Update.bin As the Mini 3 controls Tmax much better than the Nano's I've added the option in web portal settings to disable cyd Tmax Temp. fan control.
 - 0405Update.bin In data only centre display mode hashrate not shown anywhere!. In data only mode Hashrate alternates with Time below Mode.
 - 2304Update.bin Full support for the Avavlon Mini 3, Mini 3 mining can be scheduled, Improved centre display options, big hashrate etc
 - 0504Update.bin Added large Hash rate display option for centre display. Also alternating power with efficiency on bottom info line. 
